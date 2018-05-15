@@ -1,0 +1,17 @@
+body
+{
+    background-color: #ff6666;
+    font-family: "Georgia";
+    font-size: 30px;
+    color: #ffffff;
+}
+img {
+    border-radius: 10px;
+}
+a:link {
+    color: #D2FFBC;
+}
+a:hover {
+    color: hotpink;
+    font-size: 70px;
+}
